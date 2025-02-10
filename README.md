@@ -25,4 +25,3 @@ Sensing Solution Hackathon 2024 Finalist Entries
 |Fusion360|
 
 ## System
-
