@@ -1,7 +1,7 @@
 # Notification-Umbrella-Stand
 Sensing Solution Hackathon 2024 Finalist Entries
 
-##概要
+## 概要
 
 ## Thing used in this project
 
@@ -24,5 +24,5 @@ Sensing Solution Hackathon 2024 Finalist Entries
 |Ubuntu|
 |Fusion360|
 
-##System
+## System
 
