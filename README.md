@@ -2,26 +2,25 @@
 
 Sensing Solution Hackathon 2024 Finalist Entries
 
+#　概要
+
+傘の取り違いや取り忘れの対策として、傘と傘立ての使用者を紐づける傘立てを製作しました。
+
 # DEMO
 
 "hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+![画像1](https://github.com/user-attachments/assets/40bcbd9a-95e2-45e3-8c88-674e5c40de09)
 
 # Point
 
-"hoge"のセールスポイントや差別化などを説明する
+## Efficient Netを用いた顔認証
 
-# Requirement
+Spresenseから取得した顔画像を高速で処理し，データベースに格納します。
+これにより顔画像のデータベースを変更することができるため、事前に顔画像を登録する必要はありません。
 
-* huga 3.5.2
-* hogehuga 1.0.2
+## ワイヤレスによる導入のしやすさ
 
-# Installation
-
-Requirementで列挙したライブラリなどのインストール方法を説明する
-
-```bash
-pip install huga_package
-```
+設置しやすさを考慮して、
 
 # Usage
 
@@ -32,10 +31,6 @@ git clone https://github.com/hoge/~
 cd examples
 python demo.py
 ```
-
-# Note
-
-注意点などがあれば書く
 
 # Author
 
@@ -62,6 +57,8 @@ python demo.py
 |microSDカード|2|
 |薄型コンパクトモバイルバッテリー (DE-C45-5000DGY)|2|
 |USBケーブル（A-MicroB）|2|
+|赤外線受信モジュール TSSP58038|4|
+||4|
 
 ### ​Software apps and online services
 |Software|
