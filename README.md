@@ -74,7 +74,7 @@ Spresenseから取得した顔画像を高速で処理し，データベース�
 
 |ファイル名|個数|
 |----|----|
-|Lid of umbrella stand side camera.stl|2|
+|Body of umbrella stand side camera.stl|2|
 |Lid of umbrella stand side camera.stl|2|
 |Body of umbrella stand unit.stl|4|
 |Lid of umbrella stand unit.stl|4|
